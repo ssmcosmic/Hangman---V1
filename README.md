@@ -10,4 +10,6 @@ A simple implementation of "Hangman" over a limited set of genres and words. The
 [2] A JAR file / compiled version of the program has also been included in order to run the game without an IDE.
 
 [3] The file directory for the image files must be modified in the source code (in order to run the game through an IDE).
+
+Side Note: There are many inefficiencies with the program. I plan to optimize them in future versions. The goal of version 1 was simply to create the game, however possible.
                                                           
